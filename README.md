@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pikachu233666
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning UnrealEngine Game Developing
+## Hello Guys 👋
 
-<!---
-pikachu233666/pikachu233666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About
+<img align="right" src="https://github-readme-stats-hassan.vercel.app/api?username=pikachu233666&theme=cobalt&show_icons=true&count_private=true">
+
+👨‍💻 My Blog: https://pikachu233666.github.io/
+
+📫 How to contact me: [2586970609@qq.com](mailto:2586970609@qq.com)
