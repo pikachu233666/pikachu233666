@@ -7,8 +7,8 @@ I am Gabriel
 
 ## About
 
-My index: https://www.pochacco.top/
+My index: https://www.pochacco.top/en/
 
 👨‍💻 My Blog: https://pochacco.top/
 
-📫 How to contact me: [2586970609@qq.com](mailto:2586970609@qq.com)
+📫 How to contact me: [sunyubo1225@gamil.com](mailto:sunyubo1225@gmail.com)
