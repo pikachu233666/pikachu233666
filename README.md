@@ -2,8 +2,6 @@
 
 I am Gabriel
 
-## Program
-
 
 ## About
 
