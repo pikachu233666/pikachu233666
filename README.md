@@ -2,6 +2,7 @@
 
 I am Gabriel
 
+Major in CyberSecurity
 
 ## About
 
