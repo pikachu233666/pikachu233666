@@ -4,10 +4,6 @@ I am Gabriel
 
 Major in CyberSecurity
 
-## About
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikachu233666)
 
-My index: https://index.pochacco.top/en/
-
-👨‍💻 My Blog: https://pochacco.top/
-
-📫 How to contact me: [sunyubo1225@gamil.com](mailto:sunyubo1225@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu233666)
