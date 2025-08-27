@@ -6,7 +6,7 @@
 - 🎓 &nbsp; A 3rd year Honours Bachelor of Information Sciences (CyberSecurity) Student.  
 - 🛠️ &nbsp; Building **Healix** – a Self-Healing Linux system with AI-powered log learning.  
 - 📊 &nbsp; Developed a **Student Score Management System** with analytics & CSV persistence.  
-- 📸 &nbsp; Founder of **Lunari Photography**, focusing on **Astrophotography, Landscape & Scenery**.  
+- 📸 &nbsp; Founder of **Lunari Photograph**, focusing on **Astrophotography, Landscape & Scenery**.  
 - 🌱 &nbsp; Exploring Red Teaming, Offensive Security and Creative Coding.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
